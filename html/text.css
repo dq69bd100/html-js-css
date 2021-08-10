@@ -1,0 +1,13 @@
+h1{
+   color: #36C;
+   font-weight:normal;
+   letter-spacing: .0em;
+   margin-bottom: 1em;
+  text-transform:lowercase ;
+/* hi */
+    }
+body{
+    background-color:red;
+    /*priority for inline css */
+  }
+  
